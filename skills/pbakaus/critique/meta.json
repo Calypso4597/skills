@@ -1,0 +1,16 @@
+{
+  "slug": "critique",
+  "name": "critique",
+  "user": "pbakaus",
+  "repo": "impeccable",
+  "rawUrl": "https://raw.githubusercontent.com/pbakaus/impeccable/main/skill/reference/critique.md",
+  "githubUrl": "https://github.com/pbakaus/impeccable/blob/main/skill/reference/critique.md",
+  "description": "Evaluate design quality with structured UX scoring, persona checks, and actionable remediation guidance.",
+  "topics": [
+    "testing",
+    "visual",
+    "taste"
+  ],
+  "pathSlug": "pbakaus/critique",
+  "installs": 83971
+}

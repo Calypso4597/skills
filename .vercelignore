@@ -1,0 +1,11 @@
+.agents
+.claude
+.codex
+.kiro
+.windsurf
+.vscode
+.github
+*.tsbuildinfo
+scripts/.sync-report.json
+scripts/.installs-report.json
+agent-transcripts

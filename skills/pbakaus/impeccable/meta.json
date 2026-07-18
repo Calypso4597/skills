@@ -1,0 +1,16 @@
+{
+  "slug": "impeccable",
+  "name": "impeccable",
+  "user": "pbakaus",
+  "repo": "impeccable",
+  "rawUrl": "https://raw.githubusercontent.com/pbakaus/impeccable/main/skill/SKILL.src.md",
+  "githubUrl": "https://github.com/pbakaus/impeccable/blob/main/skill/SKILL.src.md",
+  "description": "Flagship design skill for production-grade, anti-generic frontend interfaces with strong craft and consistency.",
+  "topics": [
+    "craft",
+    "visual",
+    "systems"
+  ],
+  "pathSlug": "pbakaus/impeccable",
+  "installs": 197263
+}

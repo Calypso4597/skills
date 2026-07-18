@@ -1,0 +1,271 @@
+@import url("@radix-ui/colors/gray.css");
+@import url("@radix-ui/colors/gray-alpha.css");
+@import url("@radix-ui/colors/mauve.css");
+@import url("@radix-ui/colors/mauve-alpha.css");
+@import url("@radix-ui/colors/black-alpha.css");
+@import url("@radix-ui/colors/white-alpha.css");
+@import "@fontsource/fira-mono/400.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg: oklch(98.5% 0 none);
+    --fg: oklch(14.1% 0.005 285.823);
+    --muted: oklch(44.2% 0.017 285.786);
+    --border: var(--gray-4);
+    --card: var(--mauve-1);
+    --card-foreground: var(--fg);
+    --scrollbar-thumb: var(--mauve-9);
+    --scrollbar-track: transparent;
+    --selection-background: var(--gray-4);
+    --selection-foreground: var(--fg);
+    --kbd-background: var(--gray-3);
+    --kbd-foreground: var(--gray-11);
+    --kbd-border: var(--gray-4);
+    --radius-small: 4px;
+    --radius-base: 8px;
+    --radius-large: 12px;
+    --inter-tracking: 0.02em;
+
+    /* DESIGN SKILLS wordmark */
+    --wordmark-angle: 90deg;
+    --wordmark-size: 200%;
+    --wordmark-duration: 8s;
+    --wordmark-play-state: running;
+    --wordmark-direction: reverse;
+    --wordmark-tracking: -1.5px;
+    --wordmark-leading: 1.1;
+    --wordmark-font-size: 18px;
+    --wordmark-c1: #ff6b00;
+    --wordmark-c2: #ffcc00;
+    --wordmark-c3: #39ff14;
+    --wordmark-c4: #00e5ff;
+    --wordmark-c5: #2f6bff;
+    --wordmark-c6: #b84dff;
+    --wordmark-c7: #ff2d95;
+  }
+
+  [data-slot="card"] {
+    background-color: var(--card) !important;
+  }
+
+  * {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-variant-ligatures: common-ligatures;
+    text-wrap: pretty;
+    text-rendering: optimizelegibility;
+  }
+
+  *::selection {
+    color: var(--selection-foreground);
+    background-color: var(--selection-background);
+  }
+
+  html {
+    scrollbar-color: var(--scrollbar-thumb) var(--scrollbar-track);
+    scrollbar-gutter: stable;
+    scrollbar-width: thin;
+    scroll-behavior: smooth;
+    @apply bg-background text-default text-foreground;
+  }
+
+  body {
+    min-height: 100vh;
+    font-family: var(--font-inter), system-ui, sans-serif;
+    letter-spacing: var(--inter-tracking);
+    background: var(--bg);
+    color: var(--fg);
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-medium text-foreground;
+    text-wrap: balance;
+  }
+
+  a {
+    @apply transition-opacity hover:opacity-50;
+  }
+
+  strong {
+    color: var(--fg);
+  }
+}
+
+.wordmark-rainbow {
+  font-size: var(--wordmark-font-size);
+  line-height: var(--wordmark-leading);
+  letter-spacing: var(--wordmark-tracking);
+  /* Close on c1 so repeat-x tiles meet without a hard edge */
+  background-image: linear-gradient(
+    var(--wordmark-angle),
+    var(--wordmark-c1) 0%,
+    var(--wordmark-c2) 14.285%,
+    var(--wordmark-c3) 28.571%,
+    var(--wordmark-c4) 42.857%,
+    var(--wordmark-c5) 57.142%,
+    var(--wordmark-c6) 71.428%,
+    var(--wordmark-c7) 85.714%,
+    var(--wordmark-c1) 100%
+  );
+  background-size: var(--wordmark-size) 100%;
+  background-repeat: repeat-x;
+  background-position: 0px 50%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+@media (max-width: 1023px) {
+  :root {
+    --wordmark-font-size: 14px;
+  }
+}
+
+@media (max-width: 767px) {
+  :root {
+    --wordmark-font-size: 12px;
+  }
+}
+
+@media (max-width: 639px) {
+  :root {
+    --wordmark-font-size: 10px;
+  }
+}
+
+@layer components {
+  [data-slot="card"] {
+    box-shadow:
+      0px 0px 0px 1px rgba(0, 0, 0, 0),
+      0px 1px 2px -1px rgba(0, 0, 0, 0.2),
+      0px 2px 4px 0px rgba(0, 0, 0, 0.04);
+    transition: box-shadow 150ms ease-out;
+  }
+
+  [data-slot="card"]:hover {
+    box-shadow:
+      0px 0px 0px 1px rgba(0, 0, 0, 0.05),
+      0px 1px 2px -1px rgba(0, 0, 0, 0.3),
+      0px 2px 4px 0px rgba(0, 0, 0, 0.14);
+  }
+}
+
+.prose-skill {
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+.prose-skill h1,
+.prose-skill h2,
+.prose-skill h3,
+.prose-skill h4 {
+  color: var(--fg);
+  font-weight: 500;
+  margin-top: 1.75em;
+  margin-bottom: 0.55em;
+  text-wrap: balance;
+}
+
+.prose-skill img {
+  outline: 1px solid rgba(0, 0, 0, 0.1);
+  outline-offset: -1px;
+}
+
+.prose-skill h1 {
+  font-size: 1.15rem;
+}
+.prose-skill h2 {
+  font-size: 1.05rem;
+  margin-top: 56px;
+}
+.prose-skill h3 {
+  font-size: 1rem;
+}
+
+.prose-skill p,
+.prose-skill ul,
+.prose-skill ol,
+.prose-skill pre,
+.prose-skill table,
+.prose-skill blockquote {
+  margin-bottom: 1em;
+}
+
+/* shadcn typography blockquote pattern */
+.prose-skill blockquote {
+  margin-top: 1.5em;
+  border-left: 2px solid var(--border);
+  padding-left: 1.5rem;
+  font-style: italic;
+  color: var(--muted);
+}
+
+.prose-skill blockquote p {
+  margin-bottom: 0.75em;
+}
+
+.prose-skill blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+.prose-skill a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+}
+
+.prose-skill a:hover {
+  opacity: 1;
+}
+
+.prose-skill code {
+  margin: 0 2px;
+  padding: 2px 6px;
+  font-size: 12px;
+  color: var(--fg);
+  background: var(--kbd-background);
+  border-radius: var(--radius-small);
+  box-shadow: 0 0 0 1px var(--kbd-border);
+}
+
+.prose-skill pre {
+  overflow-x: auto;
+  padding: 0.9rem 1rem;
+  color: var(--fg);
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-base);
+}
+
+.prose-skill pre code {
+  margin: 0;
+  padding: 0;
+  font-size: inherit;
+  color: inherit;
+  background: transparent;
+  box-shadow: none;
+}
+
+.prose-skill table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.prose-skill th,
+.prose-skill td {
+  padding: 0.5rem 0.35rem;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid var(--border);
+}

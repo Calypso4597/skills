@@ -1,0 +1,16 @@
+{
+  "slug": "bencium-innovative-ux-designer",
+  "name": "bencium-innovative-ux-designer",
+  "user": "bencium",
+  "repo": "bencium-marketplace",
+  "rawUrl": "https://raw.githubusercontent.com/bencium/bencium-marketplace/main/bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/SKILL.md",
+  "githubUrl": "https://github.com/bencium/bencium-marketplace/blob/main/bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/SKILL.md",
+  "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, or applications. Generates creative, polished code that avoids generic AI aesthetics.",
+  "topics": [
+    "visual",
+    "systems",
+    "frontend"
+  ],
+  "pathSlug": "bencium/bencium-innovative-ux-designer",
+  "installs": 2930
+}

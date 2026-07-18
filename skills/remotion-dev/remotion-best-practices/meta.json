@@ -1,0 +1,16 @@
+{
+  "slug": "remotion-best-practices",
+  "name": "remotion-best-practices",
+  "user": "remotion-dev",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/remotion-dev/skills/main/skills/remotion-best-practices/SKILL.md",
+  "githubUrl": "https://github.com/remotion-dev/skills/blob/main/skills/remotion-best-practices/SKILL.md",
+  "description": "Domain-specific knowledge base for building videos with Remotion and React.",
+  "topics": [
+    "video",
+    "motion",
+    "remotion"
+  ],
+  "pathSlug": "remotion-dev/remotion-best-practices",
+  "installs": 431488
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "baseline-ui",
+  "name": "baseline-ui",
+  "user": "ibelick",
+  "repo": "ui-skills",
+  "rawUrl": "https://raw.githubusercontent.com/ibelick/ui-skills/main/skills/baseline-ui/SKILL.md",
+  "githubUrl": "https://github.com/ibelick/ui-skills/blob/main/skills/baseline-ui/SKILL.md",
+  "description": "Quickly deslop UI code by fixing spacing, hierarchy, typography, and small layout issues. Use when the interface needs a fast cleanup or polish pass.",
+  "topics": [
+    "systems",
+    "visual",
+    "craft"
+  ],
+  "pathSlug": "ibelick/baseline-ui",
+  "installs": 16008
+}

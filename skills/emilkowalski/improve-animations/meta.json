@@ -1,0 +1,16 @@
+{
+  "slug": "improve-animations",
+  "name": "improve-animations",
+  "user": "emilkowalski",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/improve-animations/SKILL.md",
+  "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/improve-animations/SKILL.md",
+  "description": "Survey a codebase's animation and motion code as a senior motion advisor, then produce prioritized audit and self-contained implementation plans. Read-only on source code - it plans improvements, it does not apply them. Use when the user asks to improve animations, audit motion, make an app feel better, or wants a roadmap of animation fixes rather than a review of a single diff.",
+  "topics": [
+    "motion",
+    "performance",
+    "testing"
+  ],
+  "pathSlug": "emilkowalski/improve-animations",
+  "installs": 16236
+}

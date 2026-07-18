@@ -1,0 +1,147 @@
+[
+  {
+    "pathSlug": "0xdesign/design-lab",
+    "installs": 1049,
+    "match": "0xdesign/design-plugin/design-lab"
+  },
+  {
+    "pathSlug": "Dammyjay93/interface-design",
+    "installs": 20670,
+    "match": "dammyjay93/interface-design/interface-design"
+  },
+  {
+    "pathSlug": "Leonxlnx/design-taste-frontend",
+    "installs": 266244,
+    "match": "leonxlnx/taste-skill/design-taste-frontend"
+  },
+  {
+    "pathSlug": "Leonxlnx/gpt-taste",
+    "installs": 171518,
+    "match": "leonxlnx/taste-skill/gpt-taste"
+  },
+  {
+    "pathSlug": "Leonxlnx/minimalist-ui",
+    "installs": 189895,
+    "match": "leonxlnx/taste-skill/minimalist-ui"
+  },
+  {
+    "pathSlug": "Leonxlnx/redesign-existing-projects",
+    "installs": 204228,
+    "match": "leonxlnx/taste-skill/redesign-existing-projects"
+  },
+  {
+    "pathSlug": "addyosmani/frontend-ui-engineering",
+    "installs": 14169,
+    "match": "addyosmani/agent-skills/frontend-ui-engineering"
+  },
+  {
+    "pathSlug": "antfu/web-design-guidelines",
+    "installs": 16700,
+    "match": "antfu/skills/web-design-guidelines"
+  },
+  {
+    "pathSlug": "anthropics/frontend-design",
+    "installs": 676712,
+    "match": "anthropics/skills/frontend-design"
+  },
+  {
+    "pathSlug": "bencium/bencium-innovative-ux-designer",
+    "installs": 2930,
+    "match": "bencium/bencium-marketplace/bencium-innovative-ux-designer"
+  },
+  {
+    "pathSlug": "emilkowalski/emil-design-eng",
+    "installs": 145898,
+    "match": "emilkowalski/skills/emil-design-eng"
+  },
+  {
+    "pathSlug": "emilkowalski/improve-animations",
+    "installs": 16236,
+    "match": "emilkowalski/skills/improve-animations"
+  },
+  {
+    "pathSlug": "ibelick/baseline-ui",
+    "installs": 16008,
+    "match": "ibelick/ui-skills/baseline-ui"
+  },
+  {
+    "pathSlug": "ibelick/fixing-accessibility",
+    "installs": 14998,
+    "match": "ibelick/ui-skills/fixing-accessibility"
+  },
+  {
+    "pathSlug": "ibelick/fixing-motion-performance",
+    "installs": 18820,
+    "match": "ibelick/ui-skills/fixing-motion-performance"
+  },
+  {
+    "pathSlug": "ibelick/improve-ui",
+    "installs": 295,
+    "match": "ibelick/ui-skills/improve-ui"
+  },
+  {
+    "pathSlug": "ibelick/ui-skills-root",
+    "installs": 1476,
+    "match": "ibelick/ui-skills/ui-skills-root"
+  },
+  {
+    "pathSlug": "jakubkrehel/better-ui",
+    "installs": 1476,
+    "match": "jakubkrehel/skills/better-ui"
+  },
+  {
+    "pathSlug": "jakubkrehel/make-interfaces-feel-better",
+    "installs": 43597,
+    "match": "jakubkrehel/make-interfaces-feel-better/make-interfaces-feel-better"
+  },
+  {
+    "pathSlug": "nextlevelbuilder/ui-ux-pro-max",
+    "installs": 272151,
+    "match": "nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max"
+  },
+  {
+    "pathSlug": "pbakaus/animate",
+    "installs": 83054,
+    "match": "pbakaus/impeccable/animate"
+  },
+  {
+    "pathSlug": "pbakaus/critique",
+    "installs": 83971,
+    "match": "pbakaus/impeccable/critique"
+  },
+  {
+    "pathSlug": "pbakaus/impeccable",
+    "installs": 197263,
+    "match": "pbakaus/impeccable/impeccable"
+  },
+  {
+    "pathSlug": "pbakaus/polish",
+    "installs": 0,
+    "match": null
+  },
+  {
+    "pathSlug": "raphaelsalaja/12-principles-of-animation",
+    "installs": 1021,
+    "match": "raphaelsalaja/skill/12-principles-of-animation"
+  },
+  {
+    "pathSlug": "remotion-dev/remotion-best-practices",
+    "installs": 431488,
+    "match": "remotion-dev/skills/remotion-best-practices"
+  },
+  {
+    "pathSlug": "shadcn-ui/shadcn",
+    "installs": 5243,
+    "match": "shadcn-ui/ui/shadcn"
+  },
+  {
+    "pathSlug": "vercel-labs/vercel-react-best-practices",
+    "installs": 560084,
+    "match": "vercel-labs/agent-skills/vercel-react-best-practices"
+  },
+  {
+    "pathSlug": "wshobson/interaction-design",
+    "installs": 11155,
+    "match": "wshobson/agents/interaction-design"
+  }
+]

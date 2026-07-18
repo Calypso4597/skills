@@ -1,0 +1,16 @@
+{
+  "slug": "animate",
+  "name": "animate",
+  "user": "pbakaus",
+  "repo": "impeccable",
+  "rawUrl": "https://raw.githubusercontent.com/pbakaus/impeccable/main/skill/reference/animate.md",
+  "githubUrl": "https://github.com/pbakaus/impeccable/blob/main/skill/reference/animate.md",
+  "description": "Enhance UX with purposeful animation and micro-interactions that support usability and delight.",
+  "topics": [
+    "motion",
+    "interaction",
+    "frontend"
+  ],
+  "pathSlug": "pbakaus/animate",
+  "installs": 83054
+}

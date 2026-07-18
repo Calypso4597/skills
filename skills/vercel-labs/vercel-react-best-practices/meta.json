@@ -1,0 +1,16 @@
+{
+  "slug": "vercel-react-best-practices",
+  "name": "vercel-react-best-practices",
+  "user": "vercel-labs",
+  "repo": "agent-skills",
+  "rawUrl": "https://raw.githubusercontent.com/vercel-labs/agent-skills/main/skills/react-best-practices/SKILL.md",
+  "githubUrl": "https://github.com/vercel-labs/agent-skills/blob/main/skills/react-best-practices/SKILL.md",
+  "description": "React and Next.js performance optimization guidelines from Vercel Engineering. Use when writing, reviewing, or refactoring React/Next.js code.",
+  "topics": [
+    "frontend",
+    "performance",
+    "nextjs"
+  ],
+  "pathSlug": "vercel-labs/vercel-react-best-practices",
+  "installs": 560084
+}

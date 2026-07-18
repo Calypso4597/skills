@@ -1,0 +1,16 @@
+{
+  "slug": "design-lab",
+  "name": "design-lab",
+  "user": "0xdesign",
+  "repo": "design-plugin",
+  "rawUrl": "https://raw.githubusercontent.com/0xdesign/design-plugin/main/design-and-refine/skills/design-lab/SKILL.md",
+  "githubUrl": "https://github.com/0xdesign/design-plugin/blob/main/design-and-refine/skills/design-lab/SKILL.md",
+  "description": "Interactive design exploration workflow: conduct interviews, generate variants, and refine UI designs through feedback.",
+  "topics": [
+    "visual",
+    "interaction",
+    "systems"
+  ],
+  "pathSlug": "0xdesign/design-lab",
+  "installs": 1049
+}

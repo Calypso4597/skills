@@ -1,0 +1,16 @@
+{
+  "slug": "polish",
+  "name": "polish",
+  "user": "pbakaus",
+  "repo": "impeccable",
+  "rawUrl": "https://raw.githubusercontent.com/pbakaus/impeccable/main/skill/reference/polish.md",
+  "githubUrl": "https://github.com/pbakaus/impeccable/blob/main/skill/reference/polish.md",
+  "description": "Final quality pass for spacing, alignment, and consistency to prepare UI for launch.",
+  "topics": [
+    "craft",
+    "visual",
+    "systems"
+  ],
+  "pathSlug": "pbakaus/polish",
+  "installs": 0
+}

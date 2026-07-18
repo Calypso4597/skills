@@ -1,0 +1,16 @@
+{
+  "slug": "fixing-accessibility",
+  "name": "fixing-accessibility",
+  "user": "ibelick",
+  "repo": "ui-skills",
+  "rawUrl": "https://raw.githubusercontent.com/ibelick/ui-skills/main/skills/fixing-accessibility/SKILL.md",
+  "githubUrl": "https://github.com/ibelick/ui-skills/blob/main/skills/fixing-accessibility/SKILL.md",
+  "description": "Audit and fix HTML accessibility issues including ARIA labels, keyboard navigation, focus management, color contrast, and form errors. Use when adding interactive controls, forms, dialogs, or reviewing WCAG compliance.",
+  "topics": [
+    "accessibility",
+    "testing",
+    "frontend"
+  ],
+  "pathSlug": "ibelick/fixing-accessibility",
+  "installs": 14998
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "design-taste-frontend",
+  "name": "design-taste-frontend",
+  "user": "Leonxlnx",
+  "repo": "taste-skill",
+  "rawUrl": "https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/taste-skill/SKILL.md",
+  "githubUrl": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/taste-skill/SKILL.md",
+  "description": "Anti-slop frontend skill for landing pages, portfolios, and redesigns. Reads the brief, infers design direction, and ships interfaces that do not look templated.",
+  "topics": [
+    "visual",
+    "taste",
+    "frontend"
+  ],
+  "pathSlug": "Leonxlnx/design-taste-frontend",
+  "installs": 266244
+}

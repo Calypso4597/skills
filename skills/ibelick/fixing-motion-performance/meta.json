@@ -1,0 +1,16 @@
+{
+  "slug": "fixing-motion-performance",
+  "name": "fixing-motion-performance",
+  "user": "ibelick",
+  "repo": "ui-skills",
+  "rawUrl": "https://raw.githubusercontent.com/ibelick/ui-skills/main/skills/fixing-motion-performance/SKILL.md",
+  "githubUrl": "https://github.com/ibelick/ui-skills/blob/main/skills/fixing-motion-performance/SKILL.md",
+  "description": "Audit and fix animation performance issues including layout thrashing, compositor properties, scroll-linked motion, and blur effects. Use when animations stutter, transitions jank, or reviewing CSS/JS animation performance.",
+  "topics": [
+    "motion",
+    "performance",
+    "frontend"
+  ],
+  "pathSlug": "ibelick/fixing-motion-performance",
+  "installs": 18820
+}

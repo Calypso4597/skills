@@ -1,0 +1,16 @@
+{
+  "slug": "interaction-design",
+  "name": "interaction-design",
+  "user": "wshobson",
+  "repo": "agents",
+  "rawUrl": "https://raw.githubusercontent.com/wshobson/agents/main/plugins/ui-design/skills/interaction-design/SKILL.md",
+  "githubUrl": "https://github.com/wshobson/agents/blob/main/plugins/ui-design/skills/interaction-design/SKILL.md",
+  "description": "Design and implement microinteractions, motion design, transitions, and user feedback patterns for delightful user experiences.",
+  "topics": [
+    "interaction",
+    "motion",
+    "visual"
+  ],
+  "pathSlug": "wshobson/interaction-design",
+  "installs": 11155
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "ui-ux-pro-max",
+  "name": "ui-ux-pro-max",
+  "user": "nextlevelbuilder",
+  "repo": "ui-ux-pro-max-skill",
+  "rawUrl": "https://raw.githubusercontent.com/nextlevelbuilder/ui-ux-pro-max-skill/main/.claude/skills/ui-ux-pro-max/SKILL.md",
+  "githubUrl": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/.claude/skills/ui-ux-pro-max/SKILL.md",
+  "description": "Comprehensive UI/UX design intelligence with 50+ styles, 97 palettes, and 9 technology stacks for building professional interfaces.",
+  "topics": [
+    "visual",
+    "systems",
+    "frontend"
+  ],
+  "pathSlug": "nextlevelbuilder/ui-ux-pro-max",
+  "installs": 272151
+}

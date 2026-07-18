@@ -1,0 +1,16 @@
+{
+  "slug": "improve-ui",
+  "name": "improve-ui",
+  "user": "ibelick",
+  "repo": "ui-skills",
+  "rawUrl": "https://raw.githubusercontent.com/ibelick/ui-skills/main/skills/improve-ui/SKILL.md",
+  "githubUrl": "https://github.com/ibelick/ui-skills/blob/main/skills/improve-ui/SKILL.md",
+  "description": "Audit an existing product surface against its own design evidence, identify verified UI problems, and write self-contained implementation plans for another agent without modifying product source.",
+  "topics": [
+    "visual",
+    "systems",
+    "frontend"
+  ],
+  "pathSlug": "ibelick/improve-ui",
+  "installs": 295
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "frontend-design",
+  "name": "frontend-design",
+  "user": "anthropics",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/main/skills/frontend-design/SKILL.md",
+  "githubUrl": "https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md",
+  "description": "Create distinctive, production-grade frontend interfaces with high design quality. Generates creative, polished code and UI design that avoids generic AI aesthetics.",
+  "topics": [
+    "visual",
+    "systems",
+    "frontend"
+  ],
+  "pathSlug": "anthropics/frontend-design",
+  "installs": 676712
+}

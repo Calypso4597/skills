@@ -1,0 +1,408 @@
+[
+  {
+    "slug": "design-taste-frontend",
+    "user": "Leonxlnx",
+    "repo": "taste-skill",
+    "rawUrl": "https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/taste-skill/SKILL.md",
+    "githubUrl": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/taste-skill/SKILL.md",
+    "name": "design-taste-frontend",
+    "topics": [
+      "visual",
+      "taste",
+      "frontend"
+    ],
+    "description": "Anti-slop frontend skill for landing pages, portfolios, and redesigns. Reads the brief, infers design direction, and ships interfaces that do not look templated."
+  },
+  {
+    "slug": "frontend-design",
+    "user": "anthropics",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/anthropics/skills/main/skills/frontend-design/SKILL.md",
+    "githubUrl": "https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md",
+    "name": "frontend-design",
+    "topics": [
+      "visual",
+      "systems",
+      "frontend"
+    ],
+    "description": "Create distinctive, production-grade frontend interfaces with high design quality. Generates creative, polished code and UI design that avoids generic AI aesthetics."
+  },
+  {
+    "slug": "better-ui",
+    "user": "jakubkrehel",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/better-ui/SKILL.md",
+    "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/better-ui/SKILL.md",
+    "name": "better-ui",
+    "topics": [
+      "visual",
+      "interaction",
+      "motion"
+    ],
+    "description": "Design engineering principles for making interfaces feel polished. Use when building UI components, reviewing frontend code, implementing animations, hover states, shadows, borders, micro-interactions, enter/exit animations, or any visual detail work. Triggers on UI polish, design details, \"make it feel better\", \"feels off\", stagger animations, border radius, optical alignment, image outlines, box shadows."
+  },
+  {
+    "slug": "improve-ui",
+    "user": "ibelick",
+    "repo": "ui-skills",
+    "rawUrl": "https://raw.githubusercontent.com/ibelick/ui-skills/main/skills/improve-ui/SKILL.md",
+    "githubUrl": "https://github.com/ibelick/ui-skills/blob/main/skills/improve-ui/SKILL.md",
+    "name": "improve-ui",
+    "topics": [
+      "visual",
+      "systems",
+      "frontend"
+    ],
+    "description": "Audit an existing product surface against its own design evidence, identify verified UI problems, and write self-contained implementation plans for another agent without modifying product source."
+  },
+  {
+    "slug": "improve-animations",
+    "user": "emilkowalski",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/improve-animations/SKILL.md",
+    "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/improve-animations/SKILL.md",
+    "name": "improve-animations",
+    "topics": [
+      "motion",
+      "performance",
+      "testing"
+    ],
+    "description": "Survey a codebase's animation and motion code as a senior motion advisor, then produce prioritized audit and self-contained implementation plans. Read-only on source code - it plans improvements, it does not apply them. Use when the user asks to improve animations, audit motion, make an app feel better, or wants a roadmap of animation fixes rather than a review of a single diff."
+  },
+  {
+    "slug": "web-design-guidelines",
+    "user": "antfu",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/antfu/skills/main/skills/web-design-guidelines/SKILL.md",
+    "githubUrl": "https://github.com/antfu/skills/blob/main/skills/web-design-guidelines/SKILL.md",
+    "name": "web-design-guidelines",
+    "topics": [
+      "visual",
+      "accessibility",
+      "frontend"
+    ],
+    "description": "Review UI code for web interface guideline compliance, including accessibility and UX best practices."
+  },
+  {
+    "slug": "impeccable",
+    "user": "pbakaus",
+    "repo": "impeccable",
+    "rawUrl": "https://raw.githubusercontent.com/pbakaus/impeccable/main/skill/SKILL.src.md",
+    "githubUrl": "https://github.com/pbakaus/impeccable/blob/main/skill/SKILL.src.md",
+    "name": "impeccable",
+    "topics": [
+      "craft",
+      "visual",
+      "systems"
+    ],
+    "description": "Flagship design skill for production-grade, anti-generic frontend interfaces with strong craft and consistency."
+  },
+  {
+    "slug": "ui-ux-pro-max",
+    "user": "nextlevelbuilder",
+    "repo": "ui-ux-pro-max-skill",
+    "rawUrl": "https://raw.githubusercontent.com/nextlevelbuilder/ui-ux-pro-max-skill/main/.claude/skills/ui-ux-pro-max/SKILL.md",
+    "githubUrl": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/blob/main/.claude/skills/ui-ux-pro-max/SKILL.md",
+    "name": "ui-ux-pro-max",
+    "topics": [
+      "visual",
+      "systems",
+      "frontend"
+    ],
+    "description": "Comprehensive UI/UX design intelligence with 50+ styles, 97 palettes, and 9 technology stacks for building professional interfaces."
+  },
+  {
+    "slug": "interface-design",
+    "user": "Dammyjay93",
+    "repo": "interface-design",
+    "rawUrl": "https://raw.githubusercontent.com/Dammyjay93/interface-design/main/.claude/skills/interface-design/SKILL.md",
+    "githubUrl": "https://github.com/Dammyjay93/interface-design/blob/main/.claude/skills/interface-design/SKILL.md",
+    "name": "interface-design",
+    "topics": [
+      "visual",
+      "systems",
+      "interaction"
+    ],
+    "description": "Specialized skill for interface design: dashboards, admin panels, and SaaS apps. Focused on craft and consistency."
+  },
+  {
+    "slug": "interaction-design",
+    "user": "wshobson",
+    "repo": "agents",
+    "rawUrl": "https://raw.githubusercontent.com/wshobson/agents/main/plugins/ui-design/skills/interaction-design/SKILL.md",
+    "githubUrl": "https://github.com/wshobson/agents/blob/main/plugins/ui-design/skills/interaction-design/SKILL.md",
+    "name": "interaction-design",
+    "topics": [
+      "interaction",
+      "motion",
+      "visual"
+    ],
+    "description": "Design and implement microinteractions, motion design, transitions, and user feedback patterns for delightful user experiences."
+  },
+  {
+    "slug": "frontend-ui-engineering",
+    "user": "addyosmani",
+    "repo": "agent-skills",
+    "rawUrl": "https://raw.githubusercontent.com/addyosmani/agent-skills/main/skills/frontend-ui-engineering/SKILL.md",
+    "githubUrl": "https://github.com/addyosmani/agent-skills/blob/main/skills/frontend-ui-engineering/SKILL.md",
+    "name": "frontend-ui-engineering",
+    "topics": [
+      "frontend",
+      "systems",
+      "accessibility"
+    ],
+    "description": "Frontend UI engineering guidance covering component architecture, responsive design, accessibility, and maintainable implementation patterns."
+  },
+  {
+    "slug": "12-principles-of-animation",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/12-principles-of-animation/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/12-principles-of-animation/SKILL.md",
+    "name": "12-principles-of-animation",
+    "topics": [
+      "motion",
+      "interaction",
+      "visual"
+    ],
+    "description": "Apply Disney's 12 animation principles to web interfaces to make motion feel natural, organic, and human."
+  },
+  {
+    "slug": "baseline-ui",
+    "user": "ibelick",
+    "repo": "ui-skills",
+    "rawUrl": "https://raw.githubusercontent.com/ibelick/ui-skills/main/skills/baseline-ui/SKILL.md",
+    "githubUrl": "https://github.com/ibelick/ui-skills/blob/main/skills/baseline-ui/SKILL.md",
+    "name": "baseline-ui",
+    "topics": [
+      "systems",
+      "visual",
+      "craft"
+    ],
+    "description": "Quickly deslop UI code by fixing spacing, hierarchy, typography, and small layout issues. Use when the interface needs a fast cleanup or polish pass."
+  },
+  {
+    "slug": "shadcn",
+    "user": "shadcn-ui",
+    "repo": "ui",
+    "rawUrl": "https://raw.githubusercontent.com/shadcn-ui/ui/main/skills/shadcn/SKILL.md",
+    "githubUrl": "https://github.com/shadcn-ui/ui/blob/main/skills/shadcn/SKILL.md",
+    "name": "shadcn",
+    "topics": [
+      "systems",
+      "tooling",
+      "frontend"
+    ],
+    "description": "Project-aware shadcn/ui workflow for searching, adding, composing, and fixing components with correct patterns."
+  },
+  {
+    "slug": "remotion-best-practices",
+    "user": "remotion-dev",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/remotion-dev/skills/main/skills/remotion-best-practices/SKILL.md",
+    "githubUrl": "https://github.com/remotion-dev/skills/blob/main/skills/remotion-best-practices/SKILL.md",
+    "name": "remotion-best-practices",
+    "topics": [
+      "video",
+      "motion",
+      "remotion"
+    ],
+    "description": "Domain-specific knowledge base for building videos with Remotion and React."
+  },
+  {
+    "slug": "emil-design-eng",
+    "user": "emilkowalski",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skill/main/skills/emil-design-eng/SKILL.md",
+    "githubUrl": "https://github.com/emilkowalski/skill/blob/main/skills/emil-design-eng/SKILL.md",
+    "name": "emil-design-eng",
+    "topics": [
+      "craft",
+      "taste",
+      "visual"
+    ],
+    "description": "Emil Kowalski's design-engineering philosophy for UI polish, components, animation, and production-ready frontend craft."
+  },
+  {
+    "slug": "design-lab",
+    "user": "0xdesign",
+    "repo": "design-plugin",
+    "rawUrl": "https://raw.githubusercontent.com/0xdesign/design-plugin/main/design-and-refine/skills/design-lab/SKILL.md",
+    "githubUrl": "https://github.com/0xdesign/design-plugin/blob/main/design-and-refine/skills/design-lab/SKILL.md",
+    "name": "design-lab",
+    "topics": [
+      "visual",
+      "interaction",
+      "systems"
+    ],
+    "description": "Interactive design exploration workflow: conduct interviews, generate variants, and refine UI designs through feedback."
+  },
+  {
+    "slug": "bencium-innovative-ux-designer",
+    "user": "bencium",
+    "repo": "bencium-marketplace",
+    "rawUrl": "https://raw.githubusercontent.com/bencium/bencium-marketplace/main/bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/SKILL.md",
+    "githubUrl": "https://github.com/bencium/bencium-marketplace/blob/main/bencium-innovative-ux-designer/skills/bencium-innovative-ux-designer/SKILL.md",
+    "name": "bencium-innovative-ux-designer",
+    "topics": [
+      "visual",
+      "systems",
+      "frontend"
+    ],
+    "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, or applications. Generates creative, polished code that avoids generic AI aesthetics."
+  },
+  {
+    "slug": "polish",
+    "user": "pbakaus",
+    "repo": "impeccable",
+    "rawUrl": "https://raw.githubusercontent.com/pbakaus/impeccable/main/skill/reference/polish.md",
+    "githubUrl": "https://github.com/pbakaus/impeccable/blob/main/skill/reference/polish.md",
+    "name": "polish",
+    "topics": [
+      "craft",
+      "visual",
+      "systems"
+    ],
+    "description": "Final quality pass for spacing, alignment, and consistency to prepare UI for launch."
+  },
+  {
+    "slug": "animate",
+    "user": "pbakaus",
+    "repo": "impeccable",
+    "rawUrl": "https://raw.githubusercontent.com/pbakaus/impeccable/main/skill/reference/animate.md",
+    "githubUrl": "https://github.com/pbakaus/impeccable/blob/main/skill/reference/animate.md",
+    "name": "animate",
+    "topics": [
+      "motion",
+      "interaction",
+      "frontend"
+    ],
+    "description": "Enhance UX with purposeful animation and micro-interactions that support usability and delight."
+  },
+  {
+    "slug": "critique",
+    "user": "pbakaus",
+    "repo": "impeccable",
+    "rawUrl": "https://raw.githubusercontent.com/pbakaus/impeccable/main/skill/reference/critique.md",
+    "githubUrl": "https://github.com/pbakaus/impeccable/blob/main/skill/reference/critique.md",
+    "name": "critique",
+    "topics": [
+      "testing",
+      "visual",
+      "taste"
+    ],
+    "description": "Evaluate design quality with structured UX scoring, persona checks, and actionable remediation guidance."
+  },
+  {
+    "slug": "make-interfaces-feel-better",
+    "user": "jakubkrehel",
+    "repo": "make-interfaces-feel-better",
+    "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/make-interfaces-feel-better/main/skills/make-interfaces-feel-better/SKILL.md",
+    "githubUrl": "https://github.com/jakubkrehel/make-interfaces-feel-better/blob/main/skills/make-interfaces-feel-better/SKILL.md",
+    "name": "make-interfaces-feel-better",
+    "topics": [
+      "craft",
+      "interaction",
+      "visual"
+    ],
+    "description": "Design engineering principles for making interfaces feel polished, with focus on micro-interactions, typography, and visual details."
+  },
+  {
+    "slug": "ui-skills-root",
+    "user": "ibelick",
+    "repo": "ui-skills",
+    "rawUrl": "https://raw.githubusercontent.com/ibelick/ui-skills/main/skills/ui-skills-root/SKILL.md",
+    "githubUrl": "https://github.com/ibelick/ui-skills/blob/main/skills/ui-skills-root/SKILL.md",
+    "name": "ui-skills-root",
+    "topics": [
+      "systems",
+      "tooling",
+      "architecture"
+    ],
+    "description": "Use when the user needs UI help and you must route by topic, stack, and intent to the smallest useful set of UI skills."
+  },
+  {
+    "slug": "fixing-accessibility",
+    "user": "ibelick",
+    "repo": "ui-skills",
+    "rawUrl": "https://raw.githubusercontent.com/ibelick/ui-skills/main/skills/fixing-accessibility/SKILL.md",
+    "githubUrl": "https://github.com/ibelick/ui-skills/blob/main/skills/fixing-accessibility/SKILL.md",
+    "name": "fixing-accessibility",
+    "topics": [
+      "accessibility",
+      "testing",
+      "frontend"
+    ],
+    "description": "Audit and fix HTML accessibility issues including ARIA labels, keyboard navigation, focus management, color contrast, and form errors. Use when adding interactive controls, forms, dialogs, or reviewing WCAG compliance."
+  },
+  {
+    "slug": "fixing-motion-performance",
+    "user": "ibelick",
+    "repo": "ui-skills",
+    "rawUrl": "https://raw.githubusercontent.com/ibelick/ui-skills/main/skills/fixing-motion-performance/SKILL.md",
+    "githubUrl": "https://github.com/ibelick/ui-skills/blob/main/skills/fixing-motion-performance/SKILL.md",
+    "name": "fixing-motion-performance",
+    "topics": [
+      "motion",
+      "performance",
+      "frontend"
+    ],
+    "description": "Audit and fix animation performance issues including layout thrashing, compositor properties, scroll-linked motion, and blur effects. Use when animations stutter, transitions jank, or reviewing CSS/JS animation performance."
+  },
+  {
+    "slug": "vercel-react-best-practices",
+    "user": "vercel-labs",
+    "repo": "agent-skills",
+    "rawUrl": "https://raw.githubusercontent.com/vercel-labs/agent-skills/main/skills/react-best-practices/SKILL.md",
+    "githubUrl": "https://github.com/vercel-labs/agent-skills/blob/main/skills/react-best-practices/SKILL.md",
+    "name": "vercel-react-best-practices",
+    "topics": [
+      "frontend",
+      "performance",
+      "nextjs"
+    ],
+    "description": "React and Next.js performance optimization guidelines from Vercel Engineering. Use when writing, reviewing, or refactoring React/Next.js code."
+  },
+  {
+    "slug": "gpt-taste",
+    "user": "Leonxlnx",
+    "repo": "taste-skill",
+    "rawUrl": "https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/gpt-tasteskill/SKILL.md",
+    "githubUrl": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/gpt-tasteskill/SKILL.md",
+    "name": "gpt-taste",
+    "topics": [
+      "taste",
+      "motion",
+      "visual"
+    ],
+    "description": "High-agency UX/UI skill with strict layout variance, typography, and GSAP motion engineering constraints."
+  },
+  {
+    "slug": "minimalist-ui",
+    "user": "Leonxlnx",
+    "repo": "taste-skill",
+    "rawUrl": "https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/minimalist-skill/SKILL.md",
+    "githubUrl": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/minimalist-skill/SKILL.md",
+    "name": "minimalist-ui",
+    "topics": [
+      "visual",
+      "systems",
+      "craft"
+    ],
+    "description": "Clean editorial-style interfaces. Warm monochrome palette, typographic contrast, flat bento grids, muted pastels."
+  },
+  {
+    "slug": "redesign-existing-projects",
+    "user": "Leonxlnx",
+    "repo": "taste-skill",
+    "rawUrl": "https://raw.githubusercontent.com/Leonxlnx/taste-skill/main/skills/redesign-skill/SKILL.md",
+    "githubUrl": "https://github.com/Leonxlnx/taste-skill/blob/main/skills/redesign-skill/SKILL.md",
+    "name": "redesign-existing-projects",
+    "topics": [
+      "visual",
+      "craft",
+      "frontend"
+    ],
+    "description": "Upgrades existing websites and apps to premium quality. Audits current design and applies high-end standards without breaking functionality."
+  }
+]

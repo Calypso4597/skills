@@ -1,0 +1,16 @@
+{
+  "slug": "shadcn",
+  "name": "shadcn",
+  "user": "shadcn-ui",
+  "repo": "ui",
+  "rawUrl": "https://raw.githubusercontent.com/shadcn-ui/ui/main/skills/shadcn/SKILL.md",
+  "githubUrl": "https://github.com/shadcn-ui/ui/blob/main/skills/shadcn/SKILL.md",
+  "description": "Project-aware shadcn/ui workflow for searching, adding, composing, and fixing components with correct patterns.",
+  "topics": [
+    "systems",
+    "tooling",
+    "frontend"
+  ],
+  "pathSlug": "shadcn-ui/shadcn",
+  "installs": 5243
+}
