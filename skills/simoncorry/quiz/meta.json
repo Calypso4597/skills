@@ -1,0 +1,16 @@
+{
+  "slug": "quiz",
+  "name": "quiz",
+  "user": "simoncorry",
+  "repo": "foundry",
+  "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/quiz/SKILL.md",
+  "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/quiz/SKILL.md",
+  "description": "Opt-in Foundry rider: quiz you on a change that just shipped and teach through the grading so you understand what you merged.",
+  "topics": [
+    "tooling",
+    "testing",
+    "craft"
+  ],
+  "pathSlug": "simoncorry/quiz",
+  "installs": 0
+}

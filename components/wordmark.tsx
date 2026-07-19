@@ -26,15 +26,16 @@ export function DesignSkillsWordmark() {
     if (!wrap || !el) return;
 
     const fit = () => {
-      el.style.transform = "none";
-      wrap.style.height = "auto";
+      // Prefer font-size scaling over transform so the layout box matches the
+      // visual size — transform leaves overflow that iOS scrolls both axes with.
+      el.style.fontSize = "";
       const natural = el.scrollWidth;
       const available = wrap.clientWidth;
       if (natural <= 0 || available <= 0) return;
-      const scale = Math.min(1, available / natural);
-      el.style.transform = `scale(${scale})`;
-      el.style.transformOrigin = "left top";
-      wrap.style.height = `${el.scrollHeight * scale}px`;
+      if (natural > available) {
+        const current = parseFloat(getComputedStyle(el).fontSize);
+        el.style.fontSize = `${current * (available / natural)}px`;
+      }
     };
 
     fit();
@@ -80,12 +81,12 @@ export function DesignSkillsWordmark() {
   }, []);
 
   return (
-    <div ref={wrapRef} className="relative max-w-full overflow-hidden">
+    <div ref={wrapRef} className="relative w-full max-w-full overflow-x-clip">
       <h1 className="sr-only">Design Skills</h1>
       <pre
         ref={preRef}
         aria-hidden
-        className="wordmark-rainbow inline-block select-none whitespace-pre font-fira"
+        className="wordmark-rainbow block w-max max-w-none select-none whitespace-pre font-fira"
       >
         {DESIGN_SKILLS_ANSI_SHADOW}
       </pre>

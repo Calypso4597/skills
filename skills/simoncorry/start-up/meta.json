@@ -1,0 +1,16 @@
+{
+  "slug": "start-up",
+  "name": "start-up",
+  "user": "simoncorry",
+  "repo": "foundry",
+  "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/start-up/SKILL.md",
+  "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/start-up/SKILL.md",
+  "description": "Foundry chain opener: read the branch, handoff note, and session log before any work — re-reading the brief before kickoff.",
+  "topics": [
+    "tooling",
+    "architecture",
+    "craft"
+  ],
+  "pathSlug": "simoncorry/start-up",
+  "installs": 0
+}

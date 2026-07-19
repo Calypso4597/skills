@@ -1,0 +1,16 @@
+{
+  "slug": "build-it",
+  "name": "build-it",
+  "user": "simoncorry",
+  "repo": "foundry",
+  "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/build-it/SKILL.md",
+  "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/build-it/SKILL.md",
+  "description": "Implement the settled Foundry plan unattended — log departures, keep moving, don't stall the chain on every pixel.",
+  "topics": [
+    "tooling",
+    "architecture",
+    "frontend"
+  ],
+  "pathSlug": "simoncorry/build-it",
+  "installs": 0
+}

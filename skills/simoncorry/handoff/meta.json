@@ -1,0 +1,16 @@
+{
+  "slug": "handoff",
+  "name": "handoff",
+  "user": "simoncorry",
+  "repo": "foundry",
+  "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/handoff/SKILL.md",
+  "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/handoff/SKILL.md",
+  "description": "Write the next-session note — what's in flight, what's next, and what would be hard to reconstruct cold.",
+  "topics": [
+    "tooling",
+    "architecture",
+    "craft"
+  ],
+  "pathSlug": "simoncorry/handoff",
+  "installs": 0
+}

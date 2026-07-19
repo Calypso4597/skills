@@ -1,0 +1,16 @@
+{
+  "slug": "security-scan",
+  "name": "security-scan",
+  "user": "simoncorry",
+  "repo": "foundry",
+  "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/security-scan/SKILL.md",
+  "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/security-scan/SKILL.md",
+  "description": "Optional Foundry adversarial security pass against named threat classes, with every finding forced to argue against itself.",
+  "topics": [
+    "tooling",
+    "testing",
+    "architecture"
+  ],
+  "pathSlug": "simoncorry/security-scan",
+  "installs": 0
+}

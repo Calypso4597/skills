@@ -1,0 +1,16 @@
+{
+  "slug": "wrap-up",
+  "name": "wrap-up",
+  "user": "simoncorry",
+  "repo": "foundry",
+  "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/wrap-up/SKILL.md",
+  "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/wrap-up/SKILL.md",
+  "description": "Close the Foundry session: cleanup, session log, wiki distill, and open the one pull request with a plain-English summary.",
+  "topics": [
+    "tooling",
+    "architecture",
+    "craft"
+  ],
+  "pathSlug": "simoncorry/wrap-up",
+  "installs": 0
+}

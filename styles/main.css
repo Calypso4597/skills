@@ -70,11 +70,20 @@
     scrollbar-gutter: stable;
     scrollbar-width: thin;
     scroll-behavior: smooth;
+    overflow-x: clip;
     @apply bg-background text-default text-foreground;
   }
 
+  @media (pointer: coarse) {
+    html {
+      /* Stable gutter + overlay scrollbars on phones often create a phantom axis */
+      scrollbar-gutter: auto;
+    }
+  }
+
   body {
-    min-height: 100vh;
+    min-height: 100dvh;
+    overflow-x: clip;
     font-family: var(--font-inter), system-ui, sans-serif;
     letter-spacing: var(--inter-tracking);
     background: var(--bg);

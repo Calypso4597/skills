@@ -1,0 +1,16 @@
+{
+  "slug": "construct-the-plan",
+  "name": "construct-the-plan",
+  "user": "simoncorry",
+  "repo": "foundry",
+  "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/construct-the-plan/SKILL.md",
+  "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/construct-the-plan/SKILL.md",
+  "description": "Research the territory and write a durable plan file — narrative half for humans, working-memory half for the agent.",
+  "topics": [
+    "tooling",
+    "architecture",
+    "craft"
+  ],
+  "pathSlug": "simoncorry/construct-the-plan",
+  "installs": 0
+}

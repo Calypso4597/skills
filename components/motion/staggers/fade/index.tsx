@@ -15,14 +15,11 @@ const container = {
 const item = {
   hidden: {
     opacity: 0,
-    y: 16,
-    filter: "blur(4px)",
+    y: 12,
   },
   show: {
     opacity: 1,
-    scale: 1,
     y: 0,
-    filter: "blur(0px)",
     transition: {
       type: "spring" as const,
       stiffness: 150,
@@ -34,7 +31,12 @@ const item = {
 
 function Container({ children, className }: React.HTMLProps<HTMLDivElement>) {
   return (
-    <motion.div variants={container} initial="hidden" animate="show" className={className}>
+    <motion.div
+      variants={container}
+      initial="hidden"
+      animate="show"
+      className={["overflow-x-clip", className].filter(Boolean).join(" ")}
+    >
       {children}
     </motion.div>
   );

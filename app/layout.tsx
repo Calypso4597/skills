@@ -47,7 +47,7 @@ export default function RootLayout({
             strategy="afterInteractive"
           />
         ) : null}
-        <main className="mx-auto flex min-h-screen w-full max-w-[920px] flex-col px-6 py-16">
+        <main className="mx-auto flex min-h-dvh w-full max-w-[920px] flex-col overflow-x-clip px-6 py-16">
           <article className="flex-1">{children}</article>
           <SiteFooter />
         </main>

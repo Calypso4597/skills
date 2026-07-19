@@ -404,5 +404,95 @@
       "frontend"
     ],
     "description": "Upgrades existing websites and apps to premium quality. Audits current design and applies high-end standards without breaking functionality."
+  },
+  {
+    "slug": "start-up",
+    "user": "simoncorry",
+    "repo": "foundry",
+    "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/start-up/SKILL.md",
+    "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/start-up/SKILL.md",
+    "name": "start-up",
+    "topics": ["tooling", "architecture", "craft"],
+    "description": "Foundry chain opener: read the branch, handoff note, and session log before any work — re-reading the brief before kickoff."
+  },
+  {
+    "slug": "construct-the-plan",
+    "user": "simoncorry",
+    "repo": "foundry",
+    "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/construct-the-plan/SKILL.md",
+    "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/construct-the-plan/SKILL.md",
+    "name": "construct-the-plan",
+    "topics": ["tooling", "architecture", "craft"],
+    "description": "Research the territory and write a durable plan file — narrative half for humans, working-memory half for the agent."
+  },
+  {
+    "slug": "frame-it",
+    "user": "simoncorry",
+    "repo": "foundry",
+    "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/frame-it/SKILL.md",
+    "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/frame-it/SKILL.md",
+    "name": "frame-it",
+    "topics": ["tooling", "taste", "craft"],
+    "description": "Foundry interview stage: brief the human, then ask three to five high-leverage scoping and taste questions before anything is built."
+  },
+  {
+    "slug": "build-it",
+    "user": "simoncorry",
+    "repo": "foundry",
+    "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/build-it/SKILL.md",
+    "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/build-it/SKILL.md",
+    "name": "build-it",
+    "topics": ["tooling", "architecture", "frontend"],
+    "description": "Implement the settled Foundry plan unattended — log departures, keep moving, don't stall the chain on every pixel."
+  },
+  {
+    "slug": "test-it",
+    "user": "simoncorry",
+    "repo": "foundry",
+    "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/test-it/SKILL.md",
+    "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/test-it/SKILL.md",
+    "name": "test-it",
+    "topics": ["tooling", "testing", "architecture"],
+    "description": "Write behavioral tests against what the plan intended, not what the code happens to do — verify instead of punting to manual checks."
+  },
+  {
+    "slug": "security-scan",
+    "user": "simoncorry",
+    "repo": "foundry",
+    "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/security-scan/SKILL.md",
+    "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/security-scan/SKILL.md",
+    "name": "security-scan",
+    "topics": ["tooling", "testing", "architecture"],
+    "description": "Optional Foundry adversarial security pass against named threat classes, with every finding forced to argue against itself."
+  },
+  {
+    "slug": "wrap-up",
+    "user": "simoncorry",
+    "repo": "foundry",
+    "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/wrap-up/SKILL.md",
+    "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/wrap-up/SKILL.md",
+    "name": "wrap-up",
+    "topics": ["tooling", "architecture", "craft"],
+    "description": "Close the Foundry session: cleanup, session log, wiki distill, and open the one pull request with a plain-English summary."
+  },
+  {
+    "slug": "handoff",
+    "user": "simoncorry",
+    "repo": "foundry",
+    "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/handoff/SKILL.md",
+    "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/handoff/SKILL.md",
+    "name": "handoff",
+    "topics": ["tooling", "architecture", "craft"],
+    "description": "Write the next-session note — what's in flight, what's next, and what would be hard to reconstruct cold."
+  },
+  {
+    "slug": "quiz",
+    "user": "simoncorry",
+    "repo": "foundry",
+    "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/quiz/SKILL.md",
+    "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/quiz/SKILL.md",
+    "name": "quiz",
+    "topics": ["tooling", "testing", "craft"],
+    "description": "Opt-in Foundry rider: quiz you on a change that just shipped and teach through the grading so you understand what you merged."
   }
 ]

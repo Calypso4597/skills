@@ -1,0 +1,16 @@
+{
+  "slug": "frame-it",
+  "name": "frame-it",
+  "user": "simoncorry",
+  "repo": "foundry",
+  "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/frame-it/SKILL.md",
+  "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/frame-it/SKILL.md",
+  "description": "Foundry interview stage: brief the human, then ask three to five high-leverage scoping and taste questions before anything is built.",
+  "topics": [
+    "tooling",
+    "taste",
+    "craft"
+  ],
+  "pathSlug": "simoncorry/frame-it",
+  "installs": 0
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "test-it",
+  "name": "test-it",
+  "user": "simoncorry",
+  "repo": "foundry",
+  "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/test-it/SKILL.md",
+  "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/test-it/SKILL.md",
+  "description": "Write behavioral tests against what the plan intended, not what the code happens to do — verify instead of punting to manual checks.",
+  "topics": [
+    "tooling",
+    "testing",
+    "architecture"
+  ],
+  "pathSlug": "simoncorry/test-it",
+  "installs": 0
+}
