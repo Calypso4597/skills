@@ -90,8 +90,8 @@ export function SkillCollection({
         <h2 className="flex items-center gap-2 text-balance text-[15px] font-normal text-foreground">
           <Pan size={16} />
           <span className="tabular-nums">
-            Skills ({searching ? filtered.length : featured.length}
-            {searching ? ` of ${skills.length}` : ""})
+            Skills (
+            {searching ? `${filtered.length} of ${skills.length}` : skills.length})
           </span>
         </h2>
         {showSeeAll ? (
