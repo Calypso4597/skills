@@ -70,6 +70,56 @@
     "description": "Survey a codebase's animation and motion code as a senior motion advisor, then produce prioritized audit and self-contained implementation plans. Read-only on source code - it plans improvements, it does not apply them. Use when the user asks to improve animations, audit motion, make an app feel better, or wants a roadmap of animation fixes rather than a review of a single diff."
   },
   {
+    "slug": "review-animations",
+    "user": "emilkowalski",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/review-animations/SKILL.md",
+    "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/review-animations/SKILL.md",
+    "name": "review-animations",
+    "topics": ["motion", "testing", "craft"],
+    "description": "Strict motion review of a diff against Emil's craft bar — justified motion, easing, duration, origin, GPU-only props, a11y. Default to flagging; approval is earned."
+  },
+  {
+    "slug": "find-animation-opportunities",
+    "user": "emilkowalski",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/find-animation-opportunities/SKILL.md",
+    "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/find-animation-opportunities/SKILL.md",
+    "name": "find-animation-opportunities",
+    "topics": ["motion", "taste", "craft"],
+    "description": "Search a UI for places that should animate — and reject what shouldn't. Read-only: proposes precise motion recipes, does not implement them."
+  },
+  {
+    "slug": "animation-vocabulary",
+    "user": "emilkowalski",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/animation-vocabulary/SKILL.md",
+    "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/animation-vocabulary/SKILL.md",
+    "name": "animation-vocabulary",
+    "topics": ["motion", "taste", "craft"],
+    "description": "Turn a vague motion description into the exact term — \"the bouncy popover thing\" → Pop in — so you can prompt agents and designers with the right words."
+  },
+  {
+    "slug": "apple-design",
+    "user": "emilkowalski",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/apple-design/SKILL.md",
+    "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/apple-design/SKILL.md",
+    "name": "apple-design",
+    "topics": ["motion", "interaction", "craft"],
+    "description": "Apple's interface and fluid-motion principles from WWDC design talks, translated for the web — continuous gestures, rubber-banding, physical feel."
+  },
+  {
+    "slug": "pick-ui-library",
+    "user": "emilkowalski",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/pick-ui-library/SKILL.md",
+    "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/pick-ui-library/SKILL.md",
+    "name": "pick-ui-library",
+    "topics": ["tooling", "frontend", "systems"],
+    "description": "Opinionated library picker for common frontend tasks — toasts, cmdk, charts, DnD, OTP, motion — from Emil's trusted stack instead of AI inventing one."
+  },
+  {
     "slug": "web-design-guidelines",
     "user": "antfu",
     "repo": "skills",
@@ -212,9 +262,9 @@
   {
     "slug": "emil-design-eng",
     "user": "emilkowalski",
-    "repo": "skill",
-    "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skill/main/skills/emil-design-eng/SKILL.md",
-    "githubUrl": "https://github.com/emilkowalski/skill/blob/main/skills/emil-design-eng/SKILL.md",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/emil-design-eng/SKILL.md",
+    "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/emil-design-eng/SKILL.md",
     "name": "emil-design-eng",
     "topics": [
       "craft",
@@ -494,5 +544,15 @@
     "name": "quiz",
     "topics": ["tooling", "testing", "craft"],
     "description": "Opt-in Foundry rider: quiz you on a change that just shipped and teach through the grading so you understand what you merged."
+  },
+  {
+    "slug": "vocabulary",
+    "user": "index-how",
+    "repo": "vocabulary",
+    "rawUrl": "https://raw.githubusercontent.com/index-how/vocabulary/main/skills/vocabulary/SKILL.md",
+    "githubUrl": "https://github.com/index-how/vocabulary/blob/main/skills/vocabulary/SKILL.md",
+    "name": "vocabulary",
+    "topics": ["taste", "typography", "craft"],
+    "description": "Precise design and UI vocabulary from index.how/to/articulate — reverse-lookup for typography, color, layout, motion, a11y, components, and more when you need the exact word."
   }
 ]

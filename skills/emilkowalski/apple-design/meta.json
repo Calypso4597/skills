@@ -1,0 +1,16 @@
+{
+  "slug": "apple-design",
+  "name": "apple-design",
+  "user": "emilkowalski",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/apple-design/SKILL.md",
+  "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/apple-design/SKILL.md",
+  "description": "Apple's interface and fluid-motion principles from WWDC design talks, translated for the web — continuous gestures, rubber-banding, physical feel.",
+  "topics": [
+    "motion",
+    "interaction",
+    "craft"
+  ],
+  "pathSlug": "emilkowalski/apple-design",
+  "installs": 0
+}

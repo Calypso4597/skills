@@ -1,0 +1,16 @@
+{
+  "slug": "find-animation-opportunities",
+  "name": "find-animation-opportunities",
+  "user": "emilkowalski",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/find-animation-opportunities/SKILL.md",
+  "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/find-animation-opportunities/SKILL.md",
+  "description": "Search a UI for places that should animate — and reject what shouldn't. Read-only: proposes precise motion recipes, does not implement them.",
+  "topics": [
+    "motion",
+    "taste",
+    "craft"
+  ],
+  "pathSlug": "emilkowalski/find-animation-opportunities",
+  "installs": 0
+}

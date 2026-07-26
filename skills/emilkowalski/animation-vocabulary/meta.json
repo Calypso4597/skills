@@ -1,0 +1,16 @@
+{
+  "slug": "animation-vocabulary",
+  "name": "animation-vocabulary",
+  "user": "emilkowalski",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/animation-vocabulary/SKILL.md",
+  "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/animation-vocabulary/SKILL.md",
+  "description": "Turn a vague motion description into the exact term — \"the bouncy popover thing\" → Pop in — so you can prompt agents and designers with the right words.",
+  "topics": [
+    "motion",
+    "taste",
+    "craft"
+  ],
+  "pathSlug": "emilkowalski/animation-vocabulary",
+  "installs": 0
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "pick-ui-library",
+  "name": "pick-ui-library",
+  "user": "emilkowalski",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/pick-ui-library/SKILL.md",
+  "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/pick-ui-library/SKILL.md",
+  "description": "Opinionated library picker for common frontend tasks — toasts, cmdk, charts, DnD, OTP, motion — from Emil's trusted stack instead of AI inventing one.",
+  "topics": [
+    "tooling",
+    "frontend",
+    "systems"
+  ],
+  "pathSlug": "emilkowalski/pick-ui-library",
+  "installs": 0
+}

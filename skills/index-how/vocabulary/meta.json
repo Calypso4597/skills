@@ -1,0 +1,16 @@
+{
+  "slug": "vocabulary",
+  "name": "vocabulary",
+  "user": "index-how",
+  "repo": "vocabulary",
+  "rawUrl": "https://raw.githubusercontent.com/index-how/vocabulary/main/skills/vocabulary/SKILL.md",
+  "githubUrl": "https://github.com/index-how/vocabulary/blob/main/skills/vocabulary/SKILL.md",
+  "description": "Precise design and UI vocabulary from index.how/to/articulate — reverse-lookup for typography, color, layout, motion, a11y, components, and more when you need the exact word.",
+  "topics": [
+    "taste",
+    "typography",
+    "craft"
+  ],
+  "pathSlug": "index-how/vocabulary",
+  "installs": 0
+}
