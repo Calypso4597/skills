@@ -21,6 +21,12 @@ export const metadata: Metadata = {
   },
   description:
     "A curated collection of community design, frontend, and design-engineering skills for humans and agents.",
+  icons: {
+    icon: [
+      { url: "/icon.svg", type: "image/svg+xml", sizes: "any" },
+      { url: "/icon.png", type: "image/png", sizes: "22x22" },
+    ],
+  },
   openGraph: {
     title:
       "Design, frontend, and design-engineering skills for humans and agents",
