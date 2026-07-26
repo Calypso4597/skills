@@ -1,0 +1,16 @@
+{
+  "slug": "to-spring-or-not-to-spring",
+  "name": "to-spring-or-not-to-spring",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/to-spring-or-not-to-spring/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/to-spring-or-not-to-spring/SKILL.md",
+  "description": "Audit animation timing — when to use springs vs easing, and fix motion that feels wrong.",
+  "topics": [
+    "motion",
+    "craft",
+    "testing"
+  ],
+  "pathSlug": "raphaelsalaja/to-spring-or-not-to-spring",
+  "installs": 0
+}

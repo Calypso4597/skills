@@ -1,0 +1,16 @@
+{
+  "slug": "generating-sounds-with-ai",
+  "name": "generating-sounds-with-ai",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/generating-sounds-with-ai/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/generating-sounds-with-ai/SKILL.md",
+  "description": "Audit Web Audio API code for sound synthesis best practices — procedural audio, UI sounds, and audio parameter quality.",
+  "topics": [
+    "interaction",
+    "craft",
+    "frontend"
+  ],
+  "pathSlug": "raphaelsalaja/generating-sounds-with-ai",
+  "installs": 0
+}

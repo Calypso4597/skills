@@ -1,0 +1,16 @@
+{
+  "slug": "mastering-animate-presence",
+  "name": "mastering-animate-presence",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/mastering-animate-presence/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/mastering-animate-presence/SKILL.md",
+  "description": "Audit Motion/Framer Motion AnimatePresence usage — exit animations, modals, and presence state best practices.",
+  "topics": [
+    "motion",
+    "interaction",
+    "frontend"
+  ],
+  "pathSlug": "raphaelsalaja/mastering-animate-presence",
+  "installs": 0
+}

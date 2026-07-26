@@ -278,6 +278,66 @@
     "description": "Apply Disney's 12 animation principles to web interfaces to make motion feel natural, organic, and human."
   },
   {
+    "slug": "generating-sounds-with-ai",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/generating-sounds-with-ai/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/generating-sounds-with-ai/SKILL.md",
+    "name": "generating-sounds-with-ai",
+    "topics": ["interaction", "craft", "frontend"],
+    "description": "Audit Web Audio API code for sound synthesis best practices — procedural audio, UI sounds, and audio parameter quality."
+  },
+  {
+    "slug": "mastering-animate-presence",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/mastering-animate-presence/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/mastering-animate-presence/SKILL.md",
+    "name": "mastering-animate-presence",
+    "topics": ["motion", "interaction", "frontend"],
+    "description": "Audit Motion/Framer Motion AnimatePresence usage — exit animations, modals, and presence state best practices."
+  },
+  {
+    "slug": "morphing-icons",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/morphing-icons/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/morphing-icons/SKILL.md",
+    "name": "morphing-icons",
+    "topics": ["motion", "visual", "craft"],
+    "description": "Build icon components that morph into each other through SVG line transformation — icon transitions and transforms."
+  },
+  {
+    "slug": "pseudo-elements",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/pseudo-elements/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/pseudo-elements/SKILL.md",
+    "name": "pseudo-elements",
+    "topics": ["frontend", "visual", "motion"],
+    "description": "Audit CSS pseudo-elements and View Transitions API usage — hover effects, decorative layers, and page transitions."
+  },
+  {
+    "slug": "sounds-on-the-web",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/sounds-on-the-web/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/sounds-on-the-web/SKILL.md",
+    "name": "sounds-on-the-web",
+    "topics": ["interaction", "accessibility", "craft"],
+    "description": "Audit UI audio feedback — sound implementation, audio UX decisions, and accessibility."
+  },
+  {
+    "slug": "to-spring-or-not-to-spring",
+    "user": "raphaelsalaja",
+    "repo": "skill",
+    "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/to-spring-or-not-to-spring/SKILL.md",
+    "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/to-spring-or-not-to-spring/SKILL.md",
+    "name": "to-spring-or-not-to-spring",
+    "topics": ["motion", "craft", "testing"],
+    "description": "Audit animation timing — when to use springs vs easing, and fix motion that feels wrong."
+  },
+  {
     "slug": "baseline-ui",
     "user": "ibelick",
     "repo": "ui-skills",

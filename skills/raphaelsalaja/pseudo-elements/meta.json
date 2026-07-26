@@ -1,0 +1,16 @@
+{
+  "slug": "pseudo-elements",
+  "name": "pseudo-elements",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/pseudo-elements/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/pseudo-elements/SKILL.md",
+  "description": "Audit CSS pseudo-elements and View Transitions API usage — hover effects, decorative layers, and page transitions.",
+  "topics": [
+    "frontend",
+    "visual",
+    "motion"
+  ],
+  "pathSlug": "raphaelsalaja/pseudo-elements",
+  "installs": 0
+}

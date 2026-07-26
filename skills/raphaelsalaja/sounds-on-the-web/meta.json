@@ -1,0 +1,16 @@
+{
+  "slug": "sounds-on-the-web",
+  "name": "sounds-on-the-web",
+  "user": "raphaelsalaja",
+  "repo": "skill",
+  "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/sounds-on-the-web/SKILL.md",
+  "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/sounds-on-the-web/SKILL.md",
+  "description": "Audit UI audio feedback — sound implementation, audio UX decisions, and accessibility.",
+  "topics": [
+    "interaction",
+    "accessibility",
+    "craft"
+  ],
+  "pathSlug": "raphaelsalaja/sounds-on-the-web",
+  "installs": 0
+}
