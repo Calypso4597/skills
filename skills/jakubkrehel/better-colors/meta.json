@@ -1,0 +1,16 @@
+{
+  "slug": "better-colors",
+  "name": "better-colors",
+  "user": "jakubkrehel",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/better-colors/SKILL.md",
+  "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/better-colors/SKILL.md",
+  "description": "OKLCH color for the web — convert, generate palettes, check contrast, handle gamut, and theme with semantic tokens including dark mode.",
+  "topics": [
+    "visual",
+    "systems",
+    "craft"
+  ],
+  "pathSlug": "jakubkrehel/better-colors",
+  "installs": 0
+}

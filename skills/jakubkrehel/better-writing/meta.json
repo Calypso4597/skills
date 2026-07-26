@@ -1,0 +1,16 @@
+{
+  "slug": "better-writing",
+  "name": "better-writing",
+  "user": "jakubkrehel",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/better-writing/SKILL.md",
+  "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/better-writing/SKILL.md",
+  "description": "UX writing and interface copy — button labels, errors, empty states, placeholders, and voice/tone for product UI.",
+  "topics": [
+    "craft",
+    "taste",
+    "frontend"
+  ],
+  "pathSlug": "jakubkrehel/better-writing",
+  "installs": 0
+}

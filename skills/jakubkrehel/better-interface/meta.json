@@ -1,0 +1,16 @@
+{
+  "slug": "better-interface",
+  "name": "better-interface",
+  "user": "jakubkrehel",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/better-interface/SKILL.md",
+  "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/better-interface/SKILL.md",
+  "description": "Holistic interface review that coordinates the better-* skills (a11y, layout, writing, typography, colors, UI) for a screen, flow, or product.",
+  "topics": [
+    "craft",
+    "taste",
+    "testing"
+  ],
+  "pathSlug": "jakubkrehel/better-interface",
+  "installs": 0
+}

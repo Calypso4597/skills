@@ -1,0 +1,16 @@
+{
+  "slug": "better-accessibility",
+  "name": "better-accessibility",
+  "user": "jakubkrehel",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/better-accessibility/SKILL.md",
+  "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/better-accessibility/SKILL.md",
+  "description": "Accessibility engineering for product UI — focus, keyboard, ARIA, forms, and screen readers. Use when building or reviewing components, modals, menus, or fixing a11y issues.",
+  "topics": [
+    "accessibility",
+    "frontend",
+    "craft"
+  ],
+  "pathSlug": "jakubkrehel/better-accessibility",
+  "installs": 0
+}

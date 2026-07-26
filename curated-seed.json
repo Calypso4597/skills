@@ -42,6 +42,66 @@
     "description": "Design engineering principles for making interfaces feel polished. Use when building UI components, reviewing frontend code, implementing animations, hover states, shadows, borders, micro-interactions, enter/exit animations, or any visual detail work. Triggers on UI polish, design details, \"make it feel better\", \"feels off\", stagger animations, border radius, optical alignment, image outlines, box shadows."
   },
   {
+    "slug": "better-accessibility",
+    "user": "jakubkrehel",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/better-accessibility/SKILL.md",
+    "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/better-accessibility/SKILL.md",
+    "name": "better-accessibility",
+    "topics": ["accessibility", "frontend", "craft"],
+    "description": "Accessibility engineering for product UI — focus, keyboard, ARIA, forms, and screen readers. Use when building or reviewing components, modals, menus, or fixing a11y issues."
+  },
+  {
+    "slug": "better-colors",
+    "user": "jakubkrehel",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/better-colors/SKILL.md",
+    "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/better-colors/SKILL.md",
+    "name": "better-colors",
+    "topics": ["visual", "systems", "craft"],
+    "description": "OKLCH color for the web — convert, generate palettes, check contrast, handle gamut, and theme with semantic tokens including dark mode."
+  },
+  {
+    "slug": "better-interface",
+    "user": "jakubkrehel",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/better-interface/SKILL.md",
+    "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/better-interface/SKILL.md",
+    "name": "better-interface",
+    "topics": ["craft", "taste", "testing"],
+    "description": "Holistic interface review that coordinates the better-* skills (a11y, layout, writing, typography, colors, UI) for a screen, flow, or product."
+  },
+  {
+    "slug": "better-layout",
+    "user": "jakubkrehel",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/better-layout/SKILL.md",
+    "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/better-layout/SKILL.md",
+    "name": "better-layout",
+    "topics": ["visual", "frontend", "systems"],
+    "description": "Layout structure for web UI — grouping, alignment, reading order, progressive disclosure, breakpoints, and RTL-aware spacing."
+  },
+  {
+    "slug": "better-typography",
+    "user": "jakubkrehel",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/better-typography/SKILL.md",
+    "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/better-typography/SKILL.md",
+    "name": "better-typography",
+    "topics": ["typography", "visual", "craft"],
+    "description": "Web typography from font choice and type scale to wrapping, truncation, OpenType features, and readable measure."
+  },
+  {
+    "slug": "better-writing",
+    "user": "jakubkrehel",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/better-writing/SKILL.md",
+    "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/better-writing/SKILL.md",
+    "name": "better-writing",
+    "topics": ["craft", "taste", "frontend"],
+    "description": "UX writing and interface copy — button labels, errors, empty states, placeholders, and voice/tone for product UI."
+  },
+  {
     "slug": "improve-ui",
     "user": "ibelick",
     "repo": "ui-skills",

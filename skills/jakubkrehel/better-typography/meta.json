@@ -1,0 +1,16 @@
+{
+  "slug": "better-typography",
+  "name": "better-typography",
+  "user": "jakubkrehel",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/better-typography/SKILL.md",
+  "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/better-typography/SKILL.md",
+  "description": "Web typography from font choice and type scale to wrapping, truncation, OpenType features, and readable measure.",
+  "topics": [
+    "typography",
+    "visual",
+    "craft"
+  ],
+  "pathSlug": "jakubkrehel/better-typography",
+  "installs": 0
+}

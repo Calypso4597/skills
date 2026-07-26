@@ -1,0 +1,16 @@
+{
+  "slug": "better-layout",
+  "name": "better-layout",
+  "user": "jakubkrehel",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/better-layout/SKILL.md",
+  "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/better-layout/SKILL.md",
+  "description": "Layout structure for web UI — grouping, alignment, reading order, progressive disclosure, breakpoints, and RTL-aware spacing.",
+  "topics": [
+    "visual",
+    "frontend",
+    "systems"
+  ],
+  "pathSlug": "jakubkrehel/better-layout",
+  "installs": 0
+}
