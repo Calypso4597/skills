@@ -40,3 +40,9 @@ npm run dev
 3. Commit the generated files under `skills/<author>/<slug>/`
 
 Skill bodies stay attributed to their upstream authors.
+
+## License
+
+The Skills site (this repository) is licensed under the [MIT license](./LICENSE).
+
+Curated skill content remains under each upstream project's license and attribution.
