@@ -1,17 +1,35 @@
 # Skills
 
-Community design, frontend, and design-engineering skills — hosted at [skills.sanmid.com](https://skills.sanmid.com).
+![Skills](./public/og.png)
 
-Next.js app on Vercel, styled like [sanmid.com](https://sanmid.com) / [fluxapp.dev](https://fluxapp.dev): Inter, light mode, Central Icons.
+Design, frontend, and design-engineering skills for humans and agents.
+
+More on [skills.sanmid.com](https://skills.sanmid.com)
+
+A curated catalog of community skills. Each page links to the upstream repo and shows the install command.
+
+## Install
+
+```bash
+npx skills add https://github.com/<author>/<repo> --skill <skill-name>
+```
+
+Examples:
+
+```bash
+npx skills add emilkowalski/skills
+npx skills add jakubkrehel/skills
+npx skills add index-how/vocabulary
+npx skills add ibelick/ui-skills
+```
 
 ## Develop
 
 ```bash
 cp .env.example .env.local
 # set CENTRAL_LICENSE_KEY from https://iconists.co/central
-export CENTRAL_LICENSE_KEY=...   # required for Central Icons install
 npm install
-npm run sync   # refresh skills/ from curated-seed.json
+npm run sync
 npm run dev
 ```
 
@@ -21,14 +39,4 @@ npm run dev
 2. Run `npm run sync`
 3. Commit the generated files under `skills/<author>/<slug>/`
 
-## Install a skill locally
-
-```bash
-npx skills add https://github.com/<author>/<repo> --skill <skill-name>
-```
-
-Each skill page shows the exact upstream install command.
-
-## Deploy
-
-Deploy to Vercel and point `skills.sanmid.com` at the project.
+Skill bodies stay attributed to their upstream authors.
