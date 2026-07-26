@@ -29,6 +29,22 @@ export const metadata: Metadata = {
     url: "https://skills.sanmid.com",
     siteName: "Skills",
     type: "website",
+    images: [
+      {
+        url: "/og.png",
+        width: 1600,
+        height: 900,
+        alt: "Skills",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title:
+      "Design, frontend, and design-engineering skills for humans and agents",
+    description:
+      "A curated collection of community design, frontend, and design-engineering skills for humans and agents.",
+    images: ["/og.png"],
   },
 };
 
