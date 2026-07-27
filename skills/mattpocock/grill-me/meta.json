@@ -1,0 +1,16 @@
+{
+  "slug": "grill-me",
+  "name": "grill-me",
+  "user": "mattpocock",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/productivity/grill-me/SKILL.md",
+  "githubUrl": "https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md",
+  "description": "A relentless interview to sharpen a plan or design.",
+  "topics": [
+    "tooling",
+    "architecture",
+    "craft"
+  ],
+  "pathSlug": "mattpocock/grill-me",
+  "installs": 667236
+}

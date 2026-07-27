@@ -1,0 +1,16 @@
+{
+  "slug": "setup-matt-pocock-skills",
+  "name": "setup-matt-pocock-skills",
+  "user": "mattpocock",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/setup-matt-pocock-skills/SKILL.md",
+  "githubUrl": "https://github.com/mattpocock/skills/blob/main/skills/engineering/setup-matt-pocock-skills/SKILL.md",
+  "description": "Configure a repo for Matt Pocock engineering skills — issue tracker, triage labels, and domain doc layout. Run once before first use.",
+  "topics": [
+    "tooling",
+    "architecture",
+    "craft"
+  ],
+  "pathSlug": "mattpocock/setup-matt-pocock-skills",
+  "installs": 478491
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "improve-codebase-architecture",
+  "name": "improve-codebase-architecture",
+  "user": "mattpocock",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/improve-codebase-architecture/SKILL.md",
+  "githubUrl": "https://github.com/mattpocock/skills/blob/main/skills/engineering/improve-codebase-architecture/SKILL.md",
+  "description": "Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill through whichever one you pick.",
+  "topics": [
+    "architecture",
+    "tooling",
+    "craft"
+  ],
+  "pathSlug": "mattpocock/improve-codebase-architecture",
+  "installs": 547931
+}

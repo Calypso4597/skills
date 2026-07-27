@@ -48,8 +48,12 @@
     "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/better-accessibility/SKILL.md",
     "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/better-accessibility/SKILL.md",
     "name": "better-accessibility",
-    "topics": ["accessibility", "frontend", "craft"],
-    "description": "Accessibility engineering for product UI — focus, keyboard, ARIA, forms, and screen readers. Use when building or reviewing components, modals, menus, or fixing a11y issues."
+    "topics": [
+      "accessibility",
+      "frontend",
+      "craft"
+    ],
+    "description": "Accessibility engineering for product UI \u2014 focus, keyboard, ARIA, forms, and screen readers. Use when building or reviewing components, modals, menus, or fixing a11y issues."
   },
   {
     "slug": "better-colors",
@@ -58,8 +62,12 @@
     "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/better-colors/SKILL.md",
     "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/better-colors/SKILL.md",
     "name": "better-colors",
-    "topics": ["visual", "systems", "craft"],
-    "description": "OKLCH color for the web — convert, generate palettes, check contrast, handle gamut, and theme with semantic tokens including dark mode."
+    "topics": [
+      "visual",
+      "systems",
+      "craft"
+    ],
+    "description": "OKLCH color for the web \u2014 convert, generate palettes, check contrast, handle gamut, and theme with semantic tokens including dark mode."
   },
   {
     "slug": "better-interface",
@@ -68,7 +76,11 @@
     "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/better-interface/SKILL.md",
     "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/better-interface/SKILL.md",
     "name": "better-interface",
-    "topics": ["craft", "taste", "testing"],
+    "topics": [
+      "craft",
+      "taste",
+      "testing"
+    ],
     "description": "Holistic interface review that coordinates the better-* skills (a11y, layout, writing, typography, colors, UI) for a screen, flow, or product."
   },
   {
@@ -78,8 +90,12 @@
     "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/better-layout/SKILL.md",
     "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/better-layout/SKILL.md",
     "name": "better-layout",
-    "topics": ["visual", "frontend", "systems"],
-    "description": "Layout structure for web UI — grouping, alignment, reading order, progressive disclosure, breakpoints, and RTL-aware spacing."
+    "topics": [
+      "visual",
+      "frontend",
+      "systems"
+    ],
+    "description": "Layout structure for web UI \u2014 grouping, alignment, reading order, progressive disclosure, breakpoints, and RTL-aware spacing."
   },
   {
     "slug": "better-typography",
@@ -88,7 +104,11 @@
     "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/better-typography/SKILL.md",
     "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/better-typography/SKILL.md",
     "name": "better-typography",
-    "topics": ["typography", "visual", "craft"],
+    "topics": [
+      "typography",
+      "visual",
+      "craft"
+    ],
     "description": "Web typography from font choice and type scale to wrapping, truncation, OpenType features, and readable measure."
   },
   {
@@ -98,8 +118,12 @@
     "rawUrl": "https://raw.githubusercontent.com/jakubkrehel/skills/main/skills/better-writing/SKILL.md",
     "githubUrl": "https://github.com/jakubkrehel/skills/blob/main/skills/better-writing/SKILL.md",
     "name": "better-writing",
-    "topics": ["craft", "taste", "frontend"],
-    "description": "UX writing and interface copy — button labels, errors, empty states, placeholders, and voice/tone for product UI."
+    "topics": [
+      "craft",
+      "taste",
+      "frontend"
+    ],
+    "description": "UX writing and interface copy \u2014 button labels, errors, empty states, placeholders, and voice/tone for product UI."
   },
   {
     "slug": "improve-ui",
@@ -136,8 +160,12 @@
     "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/review-animations/SKILL.md",
     "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/review-animations/SKILL.md",
     "name": "review-animations",
-    "topics": ["motion", "testing", "craft"],
-    "description": "Strict motion review of a diff against Emil's craft bar — justified motion, easing, duration, origin, GPU-only props, a11y. Default to flagging; approval is earned."
+    "topics": [
+      "motion",
+      "testing",
+      "craft"
+    ],
+    "description": "Strict motion review of a diff against Emil's craft bar \u2014 justified motion, easing, duration, origin, GPU-only props, a11y. Default to flagging; approval is earned."
   },
   {
     "slug": "find-animation-opportunities",
@@ -146,8 +174,12 @@
     "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/find-animation-opportunities/SKILL.md",
     "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/find-animation-opportunities/SKILL.md",
     "name": "find-animation-opportunities",
-    "topics": ["motion", "taste", "craft"],
-    "description": "Search a UI for places that should animate — and reject what shouldn't. Read-only: proposes precise motion recipes, does not implement them."
+    "topics": [
+      "motion",
+      "taste",
+      "craft"
+    ],
+    "description": "Search a UI for places that should animate \u2014 and reject what shouldn't. Read-only: proposes precise motion recipes, does not implement them."
   },
   {
     "slug": "animation-vocabulary",
@@ -156,8 +188,12 @@
     "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/animation-vocabulary/SKILL.md",
     "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/animation-vocabulary/SKILL.md",
     "name": "animation-vocabulary",
-    "topics": ["motion", "taste", "craft"],
-    "description": "Turn a vague motion description into the exact term — \"the bouncy popover thing\" → Pop in — so you can prompt agents and designers with the right words."
+    "topics": [
+      "motion",
+      "taste",
+      "craft"
+    ],
+    "description": "Turn a vague motion description into the exact term \u2014 \"the bouncy popover thing\" \u2192 Pop in \u2014 so you can prompt agents and designers with the right words."
   },
   {
     "slug": "apple-design",
@@ -166,8 +202,12 @@
     "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/apple-design/SKILL.md",
     "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/apple-design/SKILL.md",
     "name": "apple-design",
-    "topics": ["motion", "interaction", "craft"],
-    "description": "Apple's interface and fluid-motion principles from WWDC design talks, translated for the web — continuous gestures, rubber-banding, physical feel."
+    "topics": [
+      "motion",
+      "interaction",
+      "craft"
+    ],
+    "description": "Apple's interface and fluid-motion principles from WWDC design talks, translated for the web \u2014 continuous gestures, rubber-banding, physical feel."
   },
   {
     "slug": "pick-ui-library",
@@ -176,8 +216,12 @@
     "rawUrl": "https://raw.githubusercontent.com/emilkowalski/skills/main/skills/pick-ui-library/SKILL.md",
     "githubUrl": "https://github.com/emilkowalski/skills/blob/main/skills/pick-ui-library/SKILL.md",
     "name": "pick-ui-library",
-    "topics": ["tooling", "frontend", "systems"],
-    "description": "Opinionated library picker for common frontend tasks — toasts, cmdk, charts, DnD, OTP, motion — from Emil's trusted stack instead of AI inventing one."
+    "topics": [
+      "tooling",
+      "frontend",
+      "systems"
+    ],
+    "description": "Opinionated library picker for common frontend tasks \u2014 toasts, cmdk, charts, DnD, OTP, motion \u2014 from Emil's trusted stack instead of AI inventing one."
   },
   {
     "slug": "web-design-guidelines",
@@ -284,8 +328,12 @@
     "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/generating-sounds-with-ai/SKILL.md",
     "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/generating-sounds-with-ai/SKILL.md",
     "name": "generating-sounds-with-ai",
-    "topics": ["interaction", "craft", "frontend"],
-    "description": "Audit Web Audio API code for sound synthesis best practices — procedural audio, UI sounds, and audio parameter quality."
+    "topics": [
+      "interaction",
+      "craft",
+      "frontend"
+    ],
+    "description": "Audit Web Audio API code for sound synthesis best practices \u2014 procedural audio, UI sounds, and audio parameter quality."
   },
   {
     "slug": "mastering-animate-presence",
@@ -294,8 +342,12 @@
     "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/mastering-animate-presence/SKILL.md",
     "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/mastering-animate-presence/SKILL.md",
     "name": "mastering-animate-presence",
-    "topics": ["motion", "interaction", "frontend"],
-    "description": "Audit Motion/Framer Motion AnimatePresence usage — exit animations, modals, and presence state best practices."
+    "topics": [
+      "motion",
+      "interaction",
+      "frontend"
+    ],
+    "description": "Audit Motion/Framer Motion AnimatePresence usage \u2014 exit animations, modals, and presence state best practices."
   },
   {
     "slug": "morphing-icons",
@@ -304,8 +356,12 @@
     "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/morphing-icons/SKILL.md",
     "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/morphing-icons/SKILL.md",
     "name": "morphing-icons",
-    "topics": ["motion", "visual", "craft"],
-    "description": "Build icon components that morph into each other through SVG line transformation — icon transitions and transforms."
+    "topics": [
+      "motion",
+      "visual",
+      "craft"
+    ],
+    "description": "Build icon components that morph into each other through SVG line transformation \u2014 icon transitions and transforms."
   },
   {
     "slug": "pseudo-elements",
@@ -314,8 +370,12 @@
     "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/pseudo-elements/SKILL.md",
     "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/pseudo-elements/SKILL.md",
     "name": "pseudo-elements",
-    "topics": ["frontend", "visual", "motion"],
-    "description": "Audit CSS pseudo-elements and View Transitions API usage — hover effects, decorative layers, and page transitions."
+    "topics": [
+      "frontend",
+      "visual",
+      "motion"
+    ],
+    "description": "Audit CSS pseudo-elements and View Transitions API usage \u2014 hover effects, decorative layers, and page transitions."
   },
   {
     "slug": "sounds-on-the-web",
@@ -324,8 +384,12 @@
     "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/sounds-on-the-web/SKILL.md",
     "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/sounds-on-the-web/SKILL.md",
     "name": "sounds-on-the-web",
-    "topics": ["interaction", "accessibility", "craft"],
-    "description": "Audit UI audio feedback — sound implementation, audio UX decisions, and accessibility."
+    "topics": [
+      "interaction",
+      "accessibility",
+      "craft"
+    ],
+    "description": "Audit UI audio feedback \u2014 sound implementation, audio UX decisions, and accessibility."
   },
   {
     "slug": "to-spring-or-not-to-spring",
@@ -334,8 +398,12 @@
     "rawUrl": "https://raw.githubusercontent.com/raphaelsalaja/skill/main/skills/to-spring-or-not-to-spring/SKILL.md",
     "githubUrl": "https://github.com/raphaelsalaja/skill/blob/main/skills/to-spring-or-not-to-spring/SKILL.md",
     "name": "to-spring-or-not-to-spring",
-    "topics": ["motion", "craft", "testing"],
-    "description": "Audit animation timing — when to use springs vs easing, and fix motion that feels wrong."
+    "topics": [
+      "motion",
+      "craft",
+      "testing"
+    ],
+    "description": "Audit animation timing \u2014 when to use springs vs easing, and fix motion that feels wrong."
   },
   {
     "slug": "baseline-ui",
@@ -582,8 +650,12 @@
     "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/start-up/SKILL.md",
     "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/start-up/SKILL.md",
     "name": "start-up",
-    "topics": ["tooling", "architecture", "craft"],
-    "description": "Foundry chain opener: read the branch, handoff note, and session log before any work — re-reading the brief before kickoff."
+    "topics": [
+      "tooling",
+      "architecture",
+      "craft"
+    ],
+    "description": "Foundry chain opener: read the branch, handoff note, and session log before any work \u2014 re-reading the brief before kickoff."
   },
   {
     "slug": "construct-the-plan",
@@ -592,8 +664,12 @@
     "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/construct-the-plan/SKILL.md",
     "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/construct-the-plan/SKILL.md",
     "name": "construct-the-plan",
-    "topics": ["tooling", "architecture", "craft"],
-    "description": "Research the territory and write a durable plan file — narrative half for humans, working-memory half for the agent."
+    "topics": [
+      "tooling",
+      "architecture",
+      "craft"
+    ],
+    "description": "Research the territory and write a durable plan file \u2014 narrative half for humans, working-memory half for the agent."
   },
   {
     "slug": "frame-it",
@@ -602,7 +678,11 @@
     "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/frame-it/SKILL.md",
     "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/frame-it/SKILL.md",
     "name": "frame-it",
-    "topics": ["tooling", "taste", "craft"],
+    "topics": [
+      "tooling",
+      "taste",
+      "craft"
+    ],
     "description": "Foundry interview stage: brief the human, then ask three to five high-leverage scoping and taste questions before anything is built."
   },
   {
@@ -612,8 +692,12 @@
     "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/build-it/SKILL.md",
     "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/build-it/SKILL.md",
     "name": "build-it",
-    "topics": ["tooling", "architecture", "frontend"],
-    "description": "Implement the settled Foundry plan unattended — log departures, keep moving, don't stall the chain on every pixel."
+    "topics": [
+      "tooling",
+      "architecture",
+      "frontend"
+    ],
+    "description": "Implement the settled Foundry plan unattended \u2014 log departures, keep moving, don't stall the chain on every pixel."
   },
   {
     "slug": "test-it",
@@ -622,8 +706,12 @@
     "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/test-it/SKILL.md",
     "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/test-it/SKILL.md",
     "name": "test-it",
-    "topics": ["tooling", "testing", "architecture"],
-    "description": "Write behavioral tests against what the plan intended, not what the code happens to do — verify instead of punting to manual checks."
+    "topics": [
+      "tooling",
+      "testing",
+      "architecture"
+    ],
+    "description": "Write behavioral tests against what the plan intended, not what the code happens to do \u2014 verify instead of punting to manual checks."
   },
   {
     "slug": "security-scan",
@@ -632,7 +720,11 @@
     "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/security-scan/SKILL.md",
     "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/security-scan/SKILL.md",
     "name": "security-scan",
-    "topics": ["tooling", "testing", "architecture"],
+    "topics": [
+      "tooling",
+      "testing",
+      "architecture"
+    ],
     "description": "Optional Foundry adversarial security pass against named threat classes, with every finding forced to argue against itself."
   },
   {
@@ -642,7 +734,11 @@
     "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/wrap-up/SKILL.md",
     "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/wrap-up/SKILL.md",
     "name": "wrap-up",
-    "topics": ["tooling", "architecture", "craft"],
+    "topics": [
+      "tooling",
+      "architecture",
+      "craft"
+    ],
     "description": "Close the Foundry session: cleanup, session log, wiki distill, and open the one pull request with a plain-English summary."
   },
   {
@@ -652,8 +748,12 @@
     "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/handoff/SKILL.md",
     "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/handoff/SKILL.md",
     "name": "handoff",
-    "topics": ["tooling", "architecture", "craft"],
-    "description": "Write the next-session note — what's in flight, what's next, and what would be hard to reconstruct cold."
+    "topics": [
+      "tooling",
+      "architecture",
+      "craft"
+    ],
+    "description": "Write the next-session note \u2014 what's in flight, what's next, and what would be hard to reconstruct cold."
   },
   {
     "slug": "quiz",
@@ -662,7 +762,11 @@
     "rawUrl": "https://raw.githubusercontent.com/simoncorry/foundry/main/.agents/skills/quiz/SKILL.md",
     "githubUrl": "https://github.com/simoncorry/foundry/blob/main/.agents/skills/quiz/SKILL.md",
     "name": "quiz",
-    "topics": ["tooling", "testing", "craft"],
+    "topics": [
+      "tooling",
+      "testing",
+      "craft"
+    ],
     "description": "Opt-in Foundry rider: quiz you on a change that just shipped and teach through the grading so you understand what you merged."
   },
   {
@@ -672,7 +776,95 @@
     "rawUrl": "https://raw.githubusercontent.com/index-how/vocabulary/main/skills/vocabulary/SKILL.md",
     "githubUrl": "https://github.com/index-how/vocabulary/blob/main/skills/vocabulary/SKILL.md",
     "name": "vocabulary",
-    "topics": ["taste", "typography", "craft"],
-    "description": "Precise design and UI vocabulary from index.how/to/articulate — reverse-lookup for typography, color, layout, motion, a11y, components, and more when you need the exact word."
+    "topics": [
+      "taste",
+      "typography",
+      "craft"
+    ],
+    "description": "Precise design and UI vocabulary from index.how/to/articulate \u2014 reverse-lookup for typography, color, layout, motion, a11y, components, and more when you need the exact word."
+  },
+  {
+    "slug": "grill-me",
+    "user": "mattpocock",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/productivity/grill-me/SKILL.md",
+    "githubUrl": "https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md",
+    "name": "grill-me",
+    "topics": [
+      "tooling",
+      "architecture",
+      "craft"
+    ],
+    "description": "A relentless interview to sharpen a plan or design."
+  },
+  {
+    "slug": "grill-with-docs",
+    "user": "mattpocock",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/grill-with-docs/SKILL.md",
+    "githubUrl": "https://github.com/mattpocock/skills/blob/main/skills/engineering/grill-with-docs/SKILL.md",
+    "name": "grill-with-docs",
+    "topics": [
+      "tooling",
+      "architecture",
+      "craft"
+    ],
+    "description": "A relentless interview to sharpen a plan or design, which also creates docs (ADRs and glossary) as we go."
+  },
+  {
+    "slug": "improve-codebase-architecture",
+    "user": "mattpocock",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/improve-codebase-architecture/SKILL.md",
+    "githubUrl": "https://github.com/mattpocock/skills/blob/main/skills/engineering/improve-codebase-architecture/SKILL.md",
+    "name": "improve-codebase-architecture",
+    "topics": [
+      "architecture",
+      "tooling",
+      "craft"
+    ],
+    "description": "Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill through whichever one you pick."
+  },
+  {
+    "slug": "tdd",
+    "user": "mattpocock",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/tdd/SKILL.md",
+    "githubUrl": "https://github.com/mattpocock/skills/blob/main/skills/engineering/tdd/SKILL.md",
+    "name": "tdd",
+    "topics": [
+      "testing",
+      "tooling",
+      "craft"
+    ],
+    "description": "Test-driven development. Use when building features or fixing bugs test-first, or when you want red-green-refactor / integration tests."
+  },
+  {
+    "slug": "setup-matt-pocock-skills",
+    "user": "mattpocock",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/setup-matt-pocock-skills/SKILL.md",
+    "githubUrl": "https://github.com/mattpocock/skills/blob/main/skills/engineering/setup-matt-pocock-skills/SKILL.md",
+    "name": "setup-matt-pocock-skills",
+    "topics": [
+      "tooling",
+      "architecture",
+      "craft"
+    ],
+    "description": "Configure a repo for Matt Pocock engineering skills \u2014 issue tracker, triage labels, and domain doc layout. Run once before first use."
+  },
+  {
+    "slug": "triage",
+    "user": "mattpocock",
+    "repo": "skills",
+    "rawUrl": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/triage/SKILL.md",
+    "githubUrl": "https://github.com/mattpocock/skills/blob/main/skills/engineering/triage/SKILL.md",
+    "name": "triage",
+    "topics": [
+      "tooling",
+      "architecture",
+      "craft"
+    ],
+    "description": "Move issues and external PRs through a triage state machine \u2014 categorise, verify, grill if needed, and write agent-ready briefs."
   }
 ]

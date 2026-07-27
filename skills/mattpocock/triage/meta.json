@@ -1,0 +1,16 @@
+{
+  "slug": "triage",
+  "name": "triage",
+  "user": "mattpocock",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/triage/SKILL.md",
+  "githubUrl": "https://github.com/mattpocock/skills/blob/main/skills/engineering/triage/SKILL.md",
+  "description": "Move issues and external PRs through a triage state machine — categorise, verify, grill if needed, and write agent-ready briefs.",
+  "topics": [
+    "tooling",
+    "architecture",
+    "craft"
+  ],
+  "pathSlug": "mattpocock/triage",
+  "installs": 446982
+}

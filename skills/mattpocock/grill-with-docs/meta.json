@@ -1,0 +1,16 @@
+{
+  "slug": "grill-with-docs",
+  "name": "grill-with-docs",
+  "user": "mattpocock",
+  "repo": "skills",
+  "rawUrl": "https://raw.githubusercontent.com/mattpocock/skills/main/skills/engineering/grill-with-docs/SKILL.md",
+  "githubUrl": "https://github.com/mattpocock/skills/blob/main/skills/engineering/grill-with-docs/SKILL.md",
+  "description": "A relentless interview to sharpen a plan or design, which also creates docs (ADRs and glossary) as we go.",
+  "topics": [
+    "tooling",
+    "architecture",
+    "craft"
+  ],
+  "pathSlug": "mattpocock/grill-with-docs",
+  "installs": 565507
+}
