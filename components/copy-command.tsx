@@ -1,8 +1,8 @@
 "use client";
 
+import { AnimatePresence, motion, useReducedMotion } from "framer-motion";
 import { useState } from "react";
 import { Checkmark, Clipboard } from "@/components/icons";
-import { cn } from "@/lib/utils";
 
 async function copyText(text: string) {
   if (typeof navigator !== "undefined" && navigator.clipboard?.writeText) {
@@ -27,8 +27,14 @@ async function copyText(text: string) {
   if (!ok) throw new Error("Copy failed");
 }
 
+const iconVariants = {
+  hidden: { opacity: 0, scale: 0.5 },
+  visible: { opacity: 1, scale: 1 },
+};
+
 export function CopyCommand({ command }: { command: string }) {
   const [copied, setCopied] = useState(false);
+  const reducedMotion = useReducedMotion();
 
   async function onCopy() {
     try {
@@ -51,27 +57,42 @@ export function CopyCommand({ command }: { command: string }) {
         className="relative inline-flex size-10 shrink-0 items-center justify-center text-muted transition-[color,opacity,transform] duration-150 ease-out hover:text-foreground hover:opacity-100 active:scale-[0.96]"
         aria-label={copied ? "Copied install command" : "Copy install command"}
       >
-        <span className="relative size-[18px]">
-          <span
-            className={cn(
-              "absolute inset-0 flex items-center justify-center transition-[opacity,filter,scale] duration-300 ease-[cubic-bezier(0.2,0,0,1)]",
-              copied
-                ? "scale-100 opacity-100 blur-0"
-                : "scale-[0.25] opacity-0 blur-[4px]",
+        <span className="relative flex size-[18px] items-center justify-center">
+          <AnimatePresence mode="wait" initial={false}>
+            {copied ? (
+              <motion.span
+                key="check"
+                className="absolute inset-0 flex items-center justify-center"
+                variants={iconVariants}
+                initial="hidden"
+                animate="visible"
+                exit="hidden"
+                transition={
+                  reducedMotion
+                    ? { duration: 0 }
+                    : { duration: 0.15, ease: "easeOut" }
+                }
+              >
+                <Checkmark size={18} className="pointer-events-none" />
+              </motion.span>
+            ) : (
+              <motion.span
+                key="copy"
+                className="absolute inset-0 flex items-center justify-center"
+                variants={iconVariants}
+                initial="hidden"
+                animate="visible"
+                exit="hidden"
+                transition={
+                  reducedMotion
+                    ? { duration: 0 }
+                    : { duration: 0.15, ease: "easeOut" }
+                }
+              >
+                <Clipboard size={18} className="pointer-events-none" />
+              </motion.span>
             )}
-          >
-            <Checkmark size={18} className="pointer-events-none" />
-          </span>
-          <span
-            className={cn(
-              "absolute inset-0 flex items-center justify-center transition-[opacity,filter,scale] duration-300 ease-[cubic-bezier(0.2,0,0,1)]",
-              copied
-                ? "scale-[0.25] opacity-0 blur-[4px]"
-                : "scale-100 opacity-100 blur-0",
-            )}
-          >
-            <Clipboard size={18} className="pointer-events-none" />
-          </span>
+          </AnimatePresence>
         </span>
       </button>
     </div>
